@@ -1,0 +1,27 @@
+{
+  "project_id": 14,
+  "repo_name": "014-computer-resource-dashboard",
+  "title": "Computer Resource Dashboard",
+  "theme": "Distributed AI & Computing Infrastructure",
+  "theme_id": "T06",
+  "level": 1,
+  "level_label": "Foundations",
+  "prototype_status": "research prototype",
+  "primary_description": "Local resource dashboard",
+  "research_question_proposed": "How usable is a compact dashboard for correlating local CPU, memory, storage, and network signals?",
+  "sample_files": [],
+  "source_modules": [],
+  "commands_from_original_readme": [
+    "streamlit run src/app.py"
+  ],
+  "docs": [
+    "README.md",
+    "docs/RESEARCH.md",
+    "docs/ARCHITECTURE.md",
+    "docs/DEMO.md",
+    "docs/RESULTS.md"
+  ],
+  "source_origin": "github-level1-20-projects(1).zip",
+  "execution_status": "requires_local_runtime",
+  "evidence": null
+}
